@@ -1,5 +1,9 @@
 # Swap Any Tokens
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+
+
+1. Go to [https://app.deltafi.ai/swap](https://app.deltafi.ai/swap)
+2. Connect wallet\
+   ![](<../.gitbook/assets/image (2).png>)
+3. Swap\
+   ![](../.gitbook/assets/image.png)
