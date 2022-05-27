@@ -28,4 +28,10 @@
 
 ## Links
 
-* [Github](links/github.md)
+* [App](https://www.deltafi.trade/)
+* [Github](https://github.com/deltafi-trade)
+* [Twitter](https://twitter.com/deltafi\_trade)
+* [Discord](http://discord.gg/deltafi)
+* [Telegram](https://t.me/deltafi\_labs)
+* [Medium](https://medium.com/deltafi)
+* [Youtube](https://www.youtube.com/channel/UCVs\_ZIdnPKdxy30eWrAeBLQ)
