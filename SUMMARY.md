@@ -1,7 +1,7 @@
 # Table of contents
 
 * [FAQ](README.md)
-* [Security](security/README.md)
+* [Security](security.md)
   * [Front-running](security/front-running.md)
   * [Token Availability](security/token-availability.md)
   * [Inventory Risk](security/inventory-risk.md)
@@ -35,6 +35,7 @@
 ## Links
 
 * [App](https://www.deltafi.trade/)
+* [Whitepaper](https://deltafi.trade/whitepaper.pdf)
 * [Github](https://github.com/deltafi-trade)
 * [Twitter](https://twitter.com/deltafi\_trade)
 * [Discord](http://discord.gg/deltafi)

@@ -6,7 +6,7 @@
 
 ## Audits
 
-Opyn's smart contracts have been audited by Trail of Bits, OpenZeppelin and Peckshield, and formally verified by Certora.&#x20;
+Opyn's smart contracts have been audited by Trail of Bits, OpenZeppelin and Peckshield, and formally verified by Certora.
 
 [Certik Audit Report - March 2022](https://www.certik.com/projects/deltafi)
 
