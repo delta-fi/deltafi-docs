@@ -6,7 +6,7 @@
 ## Getting Started
 
 * [Introduction](getting-started/introduction.md)
-* [DeltaFi's Competitive Advantages](getting-started/deltafis-competitive-advantages.md)
+* [Competitive Advantages](getting-started/deltafis-competitive-advantages.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
 
 ## How to Use DeltaFi
