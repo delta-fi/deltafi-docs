@@ -6,7 +6,9 @@
 ## Getting Started
 
 * [Introduction](getting-started/introduction.md)
-* [Competitive Advantages](getting-started/deltafis-competitive-advantages.md)
+* [Fair Prices](getting-started/deltafis-competitive-advantages.md)
+* [Sustainable Yields](getting-started/sustainable-yields.md)
+* [Native to Native Swap](getting-started/native-to-native-swap.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
 
 ## How to Use DeltaFi
