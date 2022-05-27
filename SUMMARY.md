@@ -20,7 +20,7 @@
 
 ## Tokenomics
 
-* [Token](tokenomics/token.md)
+* [DELFI Tokens](tokenomics/token.md)
 * [Staking](tokenomics/staking.md)
 * [Allocations](tokenomics/allocations.md)
 * [Release Schedule](tokenomics/release-schedule.md)
