@@ -10,6 +10,7 @@
 * [Sustainable Yields](getting-started/sustainable-yields.md)
 * [Native to Native Swap](getting-started/native-to-native-swap.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
+* [Roadmap](getting-started/roadmap.md)
 
 ## How to Use DeltaFi
 

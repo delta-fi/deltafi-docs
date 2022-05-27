@@ -1,6 +1,14 @@
 # DELFI Tokens
 
+## Mint
 
+* **Ticker** - $DELFI&#x20;
+* **Chain** – Solana &#x20;
+* **Max Supply** – 1,000,000,000&#x20;
+* **Token Address** – [de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF](https://solscan.io/token/de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF)
+* **Owner Program** – [Token Program](https://solscan.io/account/TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA)
+
+## Utility
 
 The DELFI token is a governance token with time-weighted voting and value accrual mechanisms. As a DELFI holder, you can:&#x20;
 
