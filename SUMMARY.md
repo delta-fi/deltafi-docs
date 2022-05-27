@@ -1,7 +1,13 @@
 # Table of contents
 
 * [FAQ](README.md)
-* [Security](security.md)
+* [Security](security/README.md)
+  * [Front-running](security/front-running.md)
+  * [Token Availability](security/token-availability.md)
+  * [Inventory Risk](security/inventory-risk.md)
+  * [Stale Oracle](security/stale-oracle.md)
+  * [Oracle Failures](security/oracle-failures.md)
+  * [Oracle Manipulation](security/oracle-manipulation.md)
 
 ## Getting Started
 
