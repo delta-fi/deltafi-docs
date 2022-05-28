@@ -1,13 +1,11 @@
 # Table of contents
 
-* [Whitepaper](https://deltafi.trade/whitepaper.pdf)
-
 ## Getting Started
 
 * [Introduction](README.md)
-* [Fair Prices](getting-started/deltafis-competitive-advantages.md)
-* [Sustainable Yields](getting-started/sustainable-yields.md)
-* [Native to Native Swap](getting-started/native-to-native-swap.md)
+  * [Fair Prices](getting-started/introduction/deltafis-competitive-advantages.md)
+  * [Sustainable Yields](getting-started/introduction/sustainable-yields.md)
+  * [Native to Native Swap](getting-started/introduction/native-to-native-swap.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
 * [Roadmap](getting-started/roadmap.md)
 
@@ -46,3 +44,4 @@
 * [Medium](https://medium.com/deltafi)
 * [Youtube](https://www.youtube.com/channel/UCVs\_ZIdnPKdxy30eWrAeBLQ)
 * [Docs](https://docs.deltafi.trade/)
+* [Whitepaper](https://deltafi.trade/whitepaper.pdf)
