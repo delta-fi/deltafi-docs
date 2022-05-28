@@ -10,9 +10,6 @@
 * [Native to Native Swap](getting-started/native-to-native-swap.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
 * [Roadmap](getting-started/roadmap.md)
-* [Security](security.md)
-  * [Audits](getting-started/security/audits.md)
-  * [Bug Bounty Program](getting-started/security/bug-bounty-program.md)
 
 ## How to Use DeltaFi
 
@@ -45,6 +42,7 @@
 * [Oracle Failures](security/oracle-failures.md)
 * [Oracle Manipulation](security/oracle-manipulation.md)
 * [Audits](security/audits.md)
+* [Bug Bounty Program](security/bug-bounty-program.md)
 
 ## Links
 
