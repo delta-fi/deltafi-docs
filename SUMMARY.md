@@ -9,7 +9,12 @@
   * [Sustainable Yields](getting-started/introduction/sustainable-yields.md)
   * [Native to Native Swap](getting-started/introduction/native-to-native-swap.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
-* [Roadmap](getting-started/roadmap.md)
+* [Roadmap](getting-started/roadmap/README.md)
+  * [2021 – Starting Up](getting-started/roadmap/2021-starting-up.md)
+  * [Q1 2022 – DeltaFi V1 Launch](getting-started/roadmap/q1-2022-deltafi-v1-launch.md)
+  * [Q2 2022 – Protocol V2](getting-started/roadmap/q2-2022-protocol-v2.md)
+  * [Q3 2022 – DAO Governance](getting-started/roadmap/q3-2022-dao-governance.md)
+  * [Q4 2022 – Decentralization](getting-started/roadmap/q4-2022-decentralization.md)
 
 ## How to Use DeltaFi
 
