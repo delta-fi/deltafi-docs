@@ -33,6 +33,7 @@
 * [Inventory Risk](security/inventory-risk.md)
 * [Bug Bounty Program](https://www.deltafi.trade/)
 * [Certik Audit - March 2022](https://www.certik.com/projects/deltafi)
+* [Depegged Assets](security/depegged-assets.md)
 
 ## Links
 
