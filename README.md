@@ -1,3 +1,5 @@
-# FAQ
+# Security
 
-coming soon
+{% hint style="info" %}
+**Security is our highest priority.**
+{% endhint %}

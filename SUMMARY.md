@@ -1,7 +1,8 @@
 # Table of contents
 
-* [FAQ](README.md)
-* [Security](security.md)
+* [Security](README.md)
+  * [Audits](security/audits.md)
+  * [Bug Bounty Program](security/bug-bounty-program.md)
   * [Front-running](security/front-running.md)
   * [Token Availability](security/token-availability.md)
   * [Inventory Risk](security/inventory-risk.md)
