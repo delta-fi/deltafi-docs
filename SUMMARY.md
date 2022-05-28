@@ -3,6 +3,8 @@
 ## Getting Started
 
 * [Introduction](README.md)
+  * [What is DeltaFi?](getting-started/introduction/what-is-deltafi.md)
+  * [What can I do with DeltaFi?](getting-started/introduction/what-can-i-do-with-deltafi.md)
   * [Fair Prices](getting-started/introduction/deltafis-competitive-advantages.md)
   * [Sustainable Yields](getting-started/introduction/sustainable-yields.md)
   * [Native to Native Swap](getting-started/introduction/native-to-native-swap.md)
