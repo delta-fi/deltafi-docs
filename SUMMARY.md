@@ -1,14 +1,15 @@
 # Table of contents
 
+* [Whitepaper](https://deltafi.trade/whitepaper.pdf)
 * [Security](README.md)
-  * [Audits](security/audits.md)
-  * [Bug Bounty Program](security/bug-bounty-program.md)
   * [Front-running](security/front-running.md)
   * [Token Availability](security/token-availability.md)
   * [Inventory Risk](security/inventory-risk.md)
   * [Stale Oracle](security/stale-oracle.md)
   * [Oracle Failures](security/oracle-failures.md)
   * [Oracle Manipulation](security/oracle-manipulation.md)
+  * [Audits](security/audits.md)
+  * [Bug Bounty Program](security/bug-bounty-program.md)
 
 ## Getting Started
 
@@ -36,7 +37,6 @@
 ## Links
 
 * [App](https://www.deltafi.trade/)
-* [Whitepaper](https://deltafi.trade/whitepaper.pdf)
 * [Github](https://github.com/deltafi-trade)
 * [Twitter](https://twitter.com/deltafi\_trade)
 * [Discord](http://discord.gg/deltafi)
