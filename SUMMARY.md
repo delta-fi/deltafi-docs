@@ -27,22 +27,14 @@
 
 ## Security
 
-* [App](https://www.deltafi.trade/)
-* [Github](https://github.com/deltafi-trade)
-* [Twitter](https://twitter.com/deltafi\_trade)
-* [Discord](http://discord.gg/deltafi)
-* [Telegram](https://t.me/deltafi\_labs)
-* [Medium](https://medium.com/deltafi)
-* [Youtube](https://www.youtube.com/channel/UCVs\_ZIdnPKdxy30eWrAeBLQ)
-* [Docs](https://docs.deltafi.trade/)
+* [Oracle Manipulation](security/oracle-manipulation.md)
+* [Oracle Failures](security/oracle-failures.md)
+* [Stale Oracle](security/stale-oracle.md)
 * [Front-running](<security/front-running (1).md>)
 * [Token Availability](security/token-availability.md)
 * [Inventory Risk](security/inventory-risk.md)
-* [Stale Oracle](security/stale-oracle.md)
-* [Oracle Failures](security/oracle-failures.md)
-* [Oracle Manipulation](security/oracle-manipulation.md)
-* [Audits](security/audits.md)
-* [Bug Bounty Program](security/bug-bounty-program.md)
+* [Bug Bounty Program](https://www.deltafi.trade/)
+* [Certik Audit - March 2022](https://www.certik.com/projects/deltafi)
 
 ## Links
 
