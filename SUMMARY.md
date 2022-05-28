@@ -11,8 +11,6 @@
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
 * [Roadmap](getting-started/roadmap.md)
 * [Security](security.md)
-  * [Front-running](security/front-running.md)
-  * [Token Availability](security/token-availability.md)
   * [Inventory Risk](security/inventory-risk.md)
   * [Stale Oracle](security/stale-oracle.md)
   * [Oracle Failures](security/oracle-failures.md)
@@ -45,6 +43,7 @@
 * [Youtube](https://www.youtube.com/channel/UCVs\_ZIdnPKdxy30eWrAeBLQ)
 * [Docs](https://docs.deltafi.trade/)
 * [Front-running](<security/front-running (1).md>)
+* [Token Availability](security/token-availability.md)
 
 ## Links
 
