@@ -31,9 +31,9 @@
 * [Front-running](<security/front-running (1).md>)
 * [Token Availability](security/token-availability.md)
 * [Inventory Risk](security/inventory-risk.md)
+* [Depegged Assets](security/depegged-assets.md)
 * [Bug Bounty Program](https://www.deltafi.trade/)
 * [Certik Audit - March 2022](https://www.certik.com/projects/deltafi)
-* [Depegged Assets](security/depegged-assets.md)
 
 ## Links
 
