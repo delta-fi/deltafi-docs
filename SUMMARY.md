@@ -1,24 +1,24 @@
 # Table of contents
 
 * [Whitepaper](https://deltafi.trade/whitepaper.pdf)
-* [Security](README.md)
-  * [Front-running](security/front-running.md)
-  * [Token Availability](security/token-availability.md)
-  * [Inventory Risk](security/inventory-risk.md)
-  * [Stale Oracle](security/stale-oracle.md)
-  * [Oracle Failures](security/oracle-failures.md)
-  * [Oracle Manipulation](security/oracle-manipulation.md)
-  * [Audits](security/audits.md)
-  * [Bug Bounty Program](security/bug-bounty-program.md)
 
 ## Getting Started
 
-* [Introduction](getting-started/introduction.md)
+* [Introduction](README.md)
 * [Fair Prices](getting-started/deltafis-competitive-advantages.md)
 * [Sustainable Yields](getting-started/sustainable-yields.md)
 * [Native to Native Swap](getting-started/native-to-native-swap.md)
 * [Smart Contract Addresses](getting-started/smart-contract-addresses.md)
 * [Roadmap](getting-started/roadmap.md)
+* [Security](getting-started/security/README.md)
+  * [Front-running](getting-started/security/front-running.md)
+  * [Token Availability](getting-started/security/token-availability.md)
+  * [Inventory Risk](getting-started/security/inventory-risk.md)
+  * [Stale Oracle](getting-started/security/stale-oracle.md)
+  * [Oracle Failures](getting-started/security/oracle-failures.md)
+  * [Oracle Manipulation](getting-started/security/oracle-manipulation.md)
+  * [Audits](getting-started/security/audits.md)
+  * [Bug Bounty Program](getting-started/security/bug-bounty-program.md)
 
 ## How to Use DeltaFi
 
@@ -43,3 +43,4 @@
 * [Telegram](https://t.me/deltafi\_labs)
 * [Medium](https://medium.com/deltafi)
 * [Youtube](https://www.youtube.com/channel/UCVs\_ZIdnPKdxy30eWrAeBLQ)
+* [Docs](https://docs.deltafi.trade/)
