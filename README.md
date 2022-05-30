@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/Banner-LinkedIn (2).png
 coverY: -13.266666666666666
-layout: landing
+layout: editorial
 ---
 
 # Introduction
