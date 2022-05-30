@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Frame 21 (1).png
+cover: .gitbook/assets/Frame 21.png
 coverY: 0
 layout: editorial
 ---
