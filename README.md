@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Banner-LinkedIn (2).png
-coverY: -13.266666666666666
+cover: .gitbook/assets/Frame 21 (1).png
+coverY: 0
 layout: editorial
 ---
 
